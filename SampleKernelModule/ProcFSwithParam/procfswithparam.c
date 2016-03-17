@@ -58,6 +58,5 @@ void my_exit_point (void)
    proc_remove(proc_top_dir);
 }
 
-
 module_init(my_entry_point);
 module_exit(my_exit_point); 
