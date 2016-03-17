@@ -61,9 +61,3 @@ void my_exit_point (void)
 
 module_init(my_entry_point);
 module_exit(my_exit_point); 
-
-
-
-
-
-
